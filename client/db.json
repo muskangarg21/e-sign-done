@@ -1,0 +1,13 @@
+{
+    "mysql": {
+        "host": "dev.fob.sofodev.co",
+        "port": 3307,
+        "user": "root",
+        "password": "Dz9Ubv}9OA{dE",
+        "database": "copy_fob_db",
+        "waitForConnections": true,
+        "connectionLimit": 20,
+        "queueLimit": 0
+      },
+    "db_url": "https://dev-pma.fob.sofodev.co/"
+}
